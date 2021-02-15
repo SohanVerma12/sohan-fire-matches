@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.lorentzos.swipecards:library:1.0.9@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/c1f6af74401ad72ad9bf8adc3991b2f6/jetified-library-1.0.9/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/c1f6af74401ad72ad9bf8adc3991b2f6/jetified-library-1.0.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/c1f6af74401ad72ad9bf8adc3991b2f6/jetified-library-1.0.9/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

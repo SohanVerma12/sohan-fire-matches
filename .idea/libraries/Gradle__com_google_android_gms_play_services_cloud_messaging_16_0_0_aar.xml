@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-cloud-messaging:16.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/088695e477da293adbf0ebe31b206dd4/jetified-play-services-cloud-messaging-16.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/9bcc650f2dffa19824ab5bc89a83ad3d/jetified-play-services-cloud-messaging-16.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/10e469f942fc1a8b9373386198e5237b/jetified-play-services-cloud-messaging-16.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/eed13d0b01b07d6b7f80cacb8d9f2086/jetified-play-services-cloud-messaging-16.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/eed13d0b01b07d6b7f80cacb8d9f2086/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/eed13d0b01b07d6b7f80cacb8d9f2086/jetified-play-services-cloud-messaging-16.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/modules-2/files-2.1/com.google.android.gms/play-services-cloud-messaging/16.0.0/66bcaa7ea2458690135561b6053cc71210dbd9dd/play-services-cloud-messaging-16.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

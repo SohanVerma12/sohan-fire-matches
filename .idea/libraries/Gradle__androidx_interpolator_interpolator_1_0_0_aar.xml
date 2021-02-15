@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.interpolator:interpolator:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/2c4abb3c9f84da22a9da11e175a85c23/interpolator-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/7d23a0e8cc087c5cfa6ece1ec7454007/interpolator-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/607aac1192ba7df14b8fe5a5eb5bd55c/interpolator-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/45aa40a4e4097e0cfc7c79588a8172a4/interpolator-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/46214f06e66265c203acb7a21169ae81/interpolator-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/42aca2a8648abd62b03d17a57c25c809/interpolator-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/42aca2a8648abd62b03d17a57c25c809/interpolator-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/42aca2a8648abd62b03d17a57c25c809/interpolator-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/modules-2/files-2.1/androidx.interpolator/interpolator/1.0.0/fefd5e3cbc479b6b4a9532d05688a1e659e8d3d2/interpolator-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

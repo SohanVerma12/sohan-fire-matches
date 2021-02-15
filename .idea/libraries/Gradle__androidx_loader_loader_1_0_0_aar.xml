@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.loader:loader:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/3a40d00373143d317b2bee08071df362/loader-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/fbc77112b5cd693b381c2a0e948562b8/loader-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/da0214278a426fa4a60d8907ed300ddc/loader-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/293de54e07d057063c38115dc3334298/loader-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/5bbb5c5a2dbdc3b9142c46288a84ddfe/loader-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/99ecac54935b490d5b49cfb2034a30b7/loader-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/99ecac54935b490d5b49cfb2034a30b7/loader-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/99ecac54935b490d5b49cfb2034a30b7/loader-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/modules-2/files-2.1/androidx.loader/loader/1.0.0/b9ef587f3e46c7fe5b00264989764e43ff45cada/loader-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

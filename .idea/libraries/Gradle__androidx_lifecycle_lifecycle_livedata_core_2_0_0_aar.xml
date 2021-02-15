@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/06bc4641de51b04d4df94808d6e05292/lifecycle-livedata-core-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/c26cf2aa2b2e1cd711ed68a67c38b7f3/lifecycle-livedata-core-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/5ec4aaa295e57a433bcd15e6f3c6295d/lifecycle-livedata-core-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/75530c7ac450d2b942a2212b88983297/lifecycle-livedata-core-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/f7d2482aaec739b2453fccb37ca9492d/lifecycle-livedata-core-2.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/f8ecbe133f5be7f5447c6581bc318581/lifecycle-livedata-core-2.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/f8ecbe133f5be7f5447c6581bc318581/lifecycle-livedata-core-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/f8ecbe133f5be7f5447c6581bc318581/lifecycle-livedata-core-2.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-core/2.0.0/c158207594782b42f3a2e08a5a029eb3319e4404/lifecycle-livedata-core-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

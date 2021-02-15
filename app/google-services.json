@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "911298245776",
+    "firebase_url": "https://crod-918ce-default-rtdb.firebaseio.com",
+    "project_id": "crod-918ce",
+    "storage_bucket": "crod-918ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911298245776:android:94d9eea686fa5527195415",
+        "android_client_info": {
+          "package_name": "com.example.datingcrod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911298245776-9kfnad9bhochs5pu35lujqp91cdh7g4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.datingcrod",
+            "certificate_hash": "7dc5c5dc172f3153ca5395eb5201c0d550f9aefb"
+          }
+        },
+        {
+          "client_id": "911298245776-ud8m6hs14fl0j2m0n96kj5hnd5hasrt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfhQg3yteW_-N2r73gWEvGwE8jwm0SJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911298245776-ud8m6hs14fl0j2m0n96kj5hnd5hasrt7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-storage:19.2.1@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/8554ced6e1292b1a299ccdbe37982418/jetified-firebase-storage-19.2.1/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/ddfcb56cbbde07434850450cbb199cd8/jetified-firebase-storage-19.2.1/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/61058e4f88a2444cffb919b9fe685a2c/jetified-firebase-storage-19.2.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/3e79f820a20ce9503cd44ba11d57ab61/jetified-firebase-storage-19.2.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/3e79f820a20ce9503cd44ba11d57ab61/jetified-firebase-storage-19.2.1/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/3e79f820a20ce9503cd44ba11d57ab61/jetified-firebase-storage-19.2.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/modules-2/files-2.1/com.google.firebase/firebase-storage/19.2.1/a8d93b4aa73a2326eb995e6c2d56eb494a811f84/firebase-storage-19.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/modules-2/files-2.1/com.google.firebase/firebase-storage/19.2.1/950d14a28c52507f6b8c7eb217528d8fb1f5bf4e/firebase-storage-19.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

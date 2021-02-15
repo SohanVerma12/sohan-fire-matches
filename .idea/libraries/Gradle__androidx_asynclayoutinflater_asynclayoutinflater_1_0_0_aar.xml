@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.asynclayoutinflater:asynclayoutinflater:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/106dcd70b93c761871dc7fc383019dfa/asynclayoutinflater-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/5f376470463a5d9b55c94f76a0f6aeda/asynclayoutinflater-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/6a058a143981252c249dc23cbfa7e1e5/asynclayoutinflater-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/cf15f938ac965012ec9aa0f3fac582fe/asynclayoutinflater-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/5da7e5d1f6de4aeab29094f91009c819/asynclayoutinflater-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/5da7e5d1f6de4aeab29094f91009c819/asynclayoutinflater-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/5da7e5d1f6de4aeab29094f91009c819/asynclayoutinflater-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/modules-2/files-2.1/androidx.asynclayoutinflater/asynclayoutinflater/1.0.0/ac4d50701fce5c88dcc514f58e695cd32f05134c/asynclayoutinflater-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

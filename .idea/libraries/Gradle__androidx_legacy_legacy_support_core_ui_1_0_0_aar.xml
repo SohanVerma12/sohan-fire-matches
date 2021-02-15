@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.legacy:legacy-support-core-ui:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/dbe1d0922cd303082c213d6528556d28/legacy-support-core-ui-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/814e41cc7a02fe8372e9da3fd3bf7d8f/legacy-support-core-ui-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/cb791c9c5aea7d57ccbe7286c83c69ae/legacy-support-core-ui-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/9b779866f7647ffaf0639b6b210bce13/legacy-support-core-ui-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/9c8d754fc898f1e420a30d0891f26bde/legacy-support-core-ui-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/9c8d754fc898f1e420a30d0891f26bde/legacy-support-core-ui-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/9c8d754fc898f1e420a30d0891f26bde/legacy-support-core-ui-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/modules-2/files-2.1/androidx.legacy/legacy-support-core-ui/1.0.0/f6044eaebe354c778f1f147ddb9e92a3f1e22fc7/legacy-support-core-ui-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

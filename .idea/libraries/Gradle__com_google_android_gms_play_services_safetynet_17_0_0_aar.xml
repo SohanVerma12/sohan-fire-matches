@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-safetynet:17.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/82153ce590e4240b37896e568388203d/jetified-play-services-safetynet-17.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/6d9d06f6f8cb66754f27318a4f571ba9/jetified-play-services-safetynet-17.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/e8bcf3a24c79d094031cf2df929c246b/jetified-play-services-safetynet-17.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/3398f1be723dd93c9bda80c4f032c987/jetified-play-services-safetynet-17.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/3398f1be723dd93c9bda80c4f032c987/jetified-play-services-safetynet-17.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/3398f1be723dd93c9bda80c4f032c987/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

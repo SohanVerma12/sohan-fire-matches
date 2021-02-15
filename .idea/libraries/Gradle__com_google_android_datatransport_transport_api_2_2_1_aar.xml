@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.datatransport:transport-api:2.2.1@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/9a131dc5b777f42be293fdd63cd717ac/jetified-transport-api-2.2.1/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/95c36f5c2e2c74845cbe1cde1be51470/jetified-transport-api-2.2.1/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/8ecac641c4dfa6f258ca9d0b1ce2ef03/jetified-transport-api-2.2.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/b07bd20edf33f7891788c3c74c4f2f7c/jetified-transport-api-2.2.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/b07bd20edf33f7891788c3c74c4f2f7c/jetified-transport-api-2.2.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/b07bd20edf33f7891788c3c74c4f2f7c/jetified-transport-api-2.2.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/modules-2/files-2.1/com.google.android.datatransport/transport-api/2.2.1/44ab63fd6744b961c97d388fef15c888f99b561a/transport-api-2.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

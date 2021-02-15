@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.BakerJQ:Android-InfiniteCards:1.0.5@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/494c34f27154747b58b65ff2ebda1335/jetified-Android-InfiniteCards-1.0.5/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/494c34f27154747b58b65ff2ebda1335/jetified-Android-InfiniteCards-1.0.5/res" />
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/494c34f27154747b58b65ff2ebda1335/jetified-Android-InfiniteCards-1.0.5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/modules-2/files-2.1/com.github.BakerJQ/Android-InfiniteCards/1.0.5/427e1192834cbf6ae66aa17753983187b4d684fa/Android-InfiniteCards-1.0.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/modules-2/files-2.1/com.github.BakerJQ/Android-InfiniteCards/1.0.5/3dc5876ef1068e535cf2f75ae330fbcf0aece4a1/Android-InfiniteCards-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

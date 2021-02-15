@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.datatransport:transport-backend-cct:2.3.3@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/6f292d045f174624177bbb0db8d31a73/jetified-transport-backend-cct-2.3.3/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/d8b2802dbe07c9cea40d7cd36ba37543/jetified-transport-backend-cct-2.3.3/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/945803417a7ed2f7bdcd2a867a304b5b/jetified-transport-backend-cct-2.3.3/res" />
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/d9bc1976ac6836415c633c451bc050f3/jetified-transport-backend-cct-2.3.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/d9bc1976ac6836415c633c451bc050f3/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/d9bc1976ac6836415c633c451bc050f3/jetified-transport-backend-cct-2.3.3/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/modules-2/files-2.1/com.google.android.datatransport/transport-backend-cct/2.3.3/9fa8e4ca037ec96af8366608c0fe6ee01ee96b40/transport-backend-cct-2.3.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

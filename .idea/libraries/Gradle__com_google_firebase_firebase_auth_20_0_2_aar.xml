@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-auth:20.0.2@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/0d8556ed406b47d0ed27a95b7cb10eb4/jetified-firebase-auth-20.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/3652d371298776cad9429c3f05e7a208/jetified-firebase-auth-20.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/d7c6239b16c449c94319d94bb73c63e6/jetified-firebase-auth-20.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/2443859fd94e7cff5a596f043d07b115/jetified-firebase-auth-20.0.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/2443859fd94e7cff5a596f043d07b115/jetified-firebase-auth-20.0.2/res" />
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/2443859fd94e7cff5a596f043d07b115/jetified-firebase-auth-20.0.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/modules-2/files-2.1/com.google.firebase/firebase-auth/20.0.2/f85db635f21ceca05cfc8134c46ba3ed4150b224/firebase-auth-20.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

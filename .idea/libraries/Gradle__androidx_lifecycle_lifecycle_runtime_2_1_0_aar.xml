@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-runtime:2.1.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/2ef7075f73d2e2de44abaa796f0222ce/lifecycle-runtime-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/8b919b4f12afe5a705678a27a650e1a4/lifecycle-runtime-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/bb371d7131919e2f73320dc08bef7c6d/lifecycle-runtime-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/e1ee465c3bbc34f5fe1c3614cc006e8e/lifecycle-runtime-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/c3c67599f7cee9751f881a0f52cf34a3/lifecycle-runtime-2.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/d197d20acb48ddcb877d2e8f8b842232/lifecycle-runtime-2.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/d197d20acb48ddcb877d2e8f8b842232/lifecycle-runtime-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/d197d20acb48ddcb877d2e8f8b842232/lifecycle-runtime-2.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-runtime/2.1.0/533a0cd1a095abbdfd08a49c4d34bd0713977034/lifecycle-runtime-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

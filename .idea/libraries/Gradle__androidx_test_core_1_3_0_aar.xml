@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test:core:1.3.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/07d88631c6fe47f1703fa9438f7bb8c0/jetified-core-1.3.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/33aba35b54433fa3f544f180e1e84a7a/jetified-core-1.3.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/d7001a02149cf197006b335bb7c1225d/jetified-core-1.3.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/bf7d7a2090a082ae16dc23c20745f2b3/jetified-core-1.3.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/00950ff2208d3dc2e5802273eb0431bc/jetified-core-1.3.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/35981136ed294000a19067b8f24bdca5/jetified-core-1.3.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/35981136ed294000a19067b8f24bdca5/jetified-core-1.3.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/35981136ed294000a19067b8f24bdca5/jetified-core-1.3.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/modules-2/files-2.1/androidx.test/core/1.3.0/3d046283a0729cb2d5dacdd9b3f8b62203052da5/core-1.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/modules-2/files-2.1/androidx.test/core/1.3.0/cab982e254e02674aa7a46e3086986cddd50ca06/core-1.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

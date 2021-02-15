@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.dimorinny:show-case-card-view:0.0.1@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/247d1e3c0094e34b94bdcc3cded2bc79/jetified-show-case-card-view-0.0.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/247d1e3c0094e34b94bdcc3cded2bc79/jetified-show-case-card-view-0.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/247d1e3c0094e34b94bdcc3cded2bc79/jetified-show-case-card-view-0.0.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

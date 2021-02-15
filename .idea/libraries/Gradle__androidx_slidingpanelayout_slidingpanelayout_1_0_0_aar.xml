@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/978129f8251720d348b7b4aa3ef6ae34/slidingpanelayout-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/39e82258709960b9e32dcbce5b1025c6/slidingpanelayout-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/430f3d9eb6b2af6bbf049a506cd0488c/slidingpanelayout-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/e6154ac506cfa094b1fe40f80bded53a/slidingpanelayout-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/8cc0a26108ce0931c83420fa0394e790/slidingpanelayout-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/8cc0a26108ce0931c83420fa0394e790/slidingpanelayout-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/8cc0a26108ce0931c83420fa0394e790/slidingpanelayout-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/modules-2/files-2.1/androidx.slidingpanelayout/slidingpanelayout/1.0.0/f3f2e4fded24d5969a86e1974ad7e96975d970a0/slidingpanelayout-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

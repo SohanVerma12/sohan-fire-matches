@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ittianyu:BottomNavigationViewEx:1.2.4@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/c41a8757f360dfe253fcd704f22506fe/jetified-BottomNavigationViewEx-1.2.4/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/98d96452f81b93c98eca13c19e2decaf/jetified-BottomNavigationViewEx-1.2.4/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/40764a226f829362199c2162c944d1d3/jetified-BottomNavigationViewEx-1.2.4/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/b5bd1904177039a1e2dea1e10e3f0021/jetified-BottomNavigationViewEx-1.2.4/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/538e73e39e55e73a06c0fbe7da7c38be/jetified-BottomNavigationViewEx-1.2.4/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/538e73e39e55e73a06c0fbe7da7c38be/jetified-BottomNavigationViewEx-1.2.4/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/538e73e39e55e73a06c0fbe7da7c38be/jetified-BottomNavigationViewEx-1.2.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/modules-2/files-2.1/com.github.ittianyu/BottomNavigationViewEx/1.2.4/b5d1c093166476dd75d1b415360b1f87db4611a0/BottomNavigationViewEx-1.2.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/modules-2/files-2.1/com.github.ittianyu/BottomNavigationViewEx/1.2.4/6d927bf7d06b13f64eafcf737f915bcdacecbf13/BottomNavigationViewEx-1.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

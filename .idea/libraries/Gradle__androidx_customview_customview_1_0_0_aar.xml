@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.customview:customview:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/da4859f2c8e5d53f282ea268af4c5fee/customview-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/3f622e07c9160ba299fbd7afa97f057d/customview-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/6f57c5348180a18a35899f503624948f/customview-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/cca6cca462bf9c1c5514011c529c65be/customview-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/55070a1e6bc07e23240a3c4316193f49/customview-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/d50faecfb775c1f9853edcccedbf42ac/customview-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/d50faecfb775c1f9853edcccedbf42ac/customview-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/d50faecfb775c1f9853edcccedbf42ac/customview-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/modules-2/files-2.1/androidx.customview/customview/1.0.0/61f6a717d144dff3a6bda413d9abeeb2bca71581/customview-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

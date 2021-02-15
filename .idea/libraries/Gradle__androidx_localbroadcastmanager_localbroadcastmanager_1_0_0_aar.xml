@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/6b07f7d890339d54fee0c1bac6a8fffc/localbroadcastmanager-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/0f625495c504b7444a929d9a0e4a1cc8/localbroadcastmanager-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/89def2616c107c40ee861568ee386b29/localbroadcastmanager-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/7124a83813586ed19d45f7a30fbdda83/localbroadcastmanager-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/1f13697d2c58c3aff056f537c6639c54/localbroadcastmanager-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/1f13697d2c58c3aff056f537c6639c54/localbroadcastmanager-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/1f13697d2c58c3aff056f537c6639c54/localbroadcastmanager-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/modules-2/files-2.1/androidx.localbroadcastmanager/localbroadcastmanager/1.0.0/3930e99159fd6b7f1d2e7d5fe9af0924ca1faf9/localbroadcastmanager-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

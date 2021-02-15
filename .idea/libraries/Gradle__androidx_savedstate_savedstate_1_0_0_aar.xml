@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.savedstate:savedstate:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/bf72a15a3ccfe7bc47129422d9cddb0c/jetified-savedstate-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/c5540d5173382e8926670c013ded21fb/jetified-savedstate-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/8f39c52ea769bc18795e6410201049f3/jetified-savedstate-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/7cc6b8b8f496eac43e2ee7925003a7c9/jetified-savedstate-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/052a82cc5bef2ede92622047edb9ddbf/jetified-savedstate-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/e8c708601127dd71a04cdcf2cdd19ca8/jetified-savedstate-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/e8c708601127dd71a04cdcf2cdd19ca8/jetified-savedstate-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/e8c708601127dd71a04cdcf2cdd19ca8/jetified-savedstate-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/modules-2/files-2.1/androidx.savedstate/savedstate/1.0.0/e6daf87ed227a6f80bb8accb466755a5ee01a652/savedstate-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

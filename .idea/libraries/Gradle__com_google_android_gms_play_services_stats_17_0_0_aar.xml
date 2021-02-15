@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-stats:17.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/7b87d5cc6f3191bbd85a886065fb9253/jetified-play-services-stats-17.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/2f9e26a3a1194f240d63ee1e8142f108/jetified-play-services-stats-17.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/f18d55b98f62353a3674cc4e818c2ce5/jetified-play-services-stats-17.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/8cdc5e30dd1f61920b20910a8a986aaf/jetified-play-services-stats-17.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/e833837674c04fbcfda4246c37681dc4/jetified-play-services-stats-17.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/e833837674c04fbcfda4246c37681dc4/jetified-play-services-stats-17.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../AndroidSDK/platforms/android-29/caches/transforms-2/files-2.1/e833837674c04fbcfda4246c37681dc4/jetified-play-services-stats-17.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
